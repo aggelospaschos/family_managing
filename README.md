@@ -6,11 +6,11 @@ The engine evaluates queries by seeking valid solutions per defined rules and co
 
 ## The Set-Up
 
-Clone this repository
+Clone the repository: `git clone https://github.com/aggelospaschos/family_managing.git`
 
-For this project, you'll need to download SWI-Prolog and run the .pl file there through the "File -> Consult" and navigate to the directory where you saved this repo 
+For this project, you'll need to download [SWI-Prolog](https://www.swi-prolog.org/) and run the `.pl` file there through the `File -> Consult` and navigate to the directory where you saved this repo 
 
 Go through the code, see and familiarize yourself with the language with the help of comments.
 
-Finally, in the SWI interface, type the query '?- start.' and play around with the outputs.
+Finally, in the SWI interface, type in the query `?- start.` and play around with the outputs.
 
